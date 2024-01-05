@@ -1,9 +1,9 @@
 # Git and GitHub practice repository
 
-##Description 
+## Description 
 This repositorey will serve as a testing area while I'm learning to use Github.  For that reason you may see some crazy things here as I'm learning 
 
-##Features 
+## Features 
 At the moment no special features are planned for this repository.  It is just for my purposes. 
 
-//ok that didn't format as expected 
+//note to future self don't forget space after markdown symbols; 
