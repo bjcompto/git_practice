@@ -1,4 +1,4 @@
-#Git and GitHub practice repository
+# Git and GitHub practice repository
 
 ##Description 
 This repositorey will serve as a testing area while I'm learning to use Github.  For that reason you may see some crazy things here as I'm learning 
